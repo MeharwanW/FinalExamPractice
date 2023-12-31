@@ -1,0 +1,15 @@
+.header{
+    background-color: #F8E5E0;
+    padding: 20px;
+}
+.Logo{
+    width: 10%;
+    height: 10%;
+}
+
+.button
+{
+    border-radius: 20px;
+    border: 2px solid black;
+    color: black;
+}
